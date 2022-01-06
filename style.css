@@ -1,0 +1,56 @@
+body{
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+}
+.flex{
+    display: flex;
+    
+}
+.half-w{
+    width: 50%;
+    margin: 0% 2% 0% 3%;
+    padding-left: 15px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 50px;
+    
+    
+}
+span{
+    color: red;
+}
+.ddf{
+    color: blue;
+}
+.tty{
+    color: darkgreen;
+}
+.experience-area{
+    background-image: url(EX-IMG/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.nn{
+    background-image: url(EX-IMG/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 90px;
+}
+.nn a{
+    text-decoration: none;
+}
+#pp{
+    border-left: 10px solid;
+    border-image: linear-gradient(black, red);
+    border-image-slice: 1;
+    border-radius: 14px;
+}
+#left-color{
+    border-radius: 12px;
+    border-image: linera-gradient(green, yellow);
+    border-image-slice: 2;
+    border-right: 12px solid;
+}
+.rr{
+    text-align: center;
+    color: red;
+}
